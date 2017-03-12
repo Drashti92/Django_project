@@ -1,0 +1,8 @@
+Follow this steps to configure this project :
+1) On you command prompt go to django Environment.
+2) Create project using command : django-admin startproject [Project Name]
+3) Change directory to project you just created using above command : cd [folder name]
+4) Make your app in that project folder using : python manage.py startapp [appname]
+5) Test you app running by : python manage.py runserver . It will give you the server address. Just paste it in the browser and see your app running.
+6) Now modify you code as I have given in the repository.
+7) Modify in this sequence. Views -> urls.py -> settings.py
